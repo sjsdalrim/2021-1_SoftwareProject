@@ -1,1 +1,5 @@
-# 2021_CAU_SoftwareProject
+# CAU_SoftwareProject
+
+Chung-Ang university / grade : 2 semester : 1
+
+Software Project (JAVA)
