@@ -12,4 +12,3 @@ Project 4 : make a Stack (Generic, Parameterized)
 
 Project 3 & 5 & 6 : make a Photo Album (use GUI)
 - Failed (program isn't working)
-- 
